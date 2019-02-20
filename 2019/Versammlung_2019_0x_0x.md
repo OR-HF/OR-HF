@@ -1,7 +1,7 @@
 # Versammlung 0x.0x.2019
 
 
-####  Wo: ...
+####  Wo: 23.03.2019
 
 ####  Wann: ...
 
@@ -24,6 +24,6 @@ xccD
 
 Punkt 2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjE2MjE3MjgsNjQzMjYxNjgwLC0yMD
-c1NzY1OTkyXX0=
+eyJoaXN0b3J5IjpbMTAxNzA0MTQxNCwtMTAyMTYyMTcyOCw2ND
+MyNjE2ODAsLTIwNzU3NjU5OTJdfQ==
 -->
