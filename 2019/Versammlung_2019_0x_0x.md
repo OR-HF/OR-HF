@@ -18,7 +18,8 @@ gggr
 
 Punkt 1.
 
-Test12345xcc
+Test12345
+xcc
 xcc
 
 Punkt 2.
