@@ -4,7 +4,7 @@
 ####  Wo: 23.03.2019
 
 ####  Wann: ...
-![enter image description here](https://github.com/OR-HF/OR-HF/raw/master/2019/11499659.png)
+
 ### Agenda:
 
 ##### Punkt 1
@@ -24,6 +24,7 @@ xccD
 
 Punkt 2.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzYzMzcwMywxMDE3MDQxNDE0LC0xMD
-IxNjIxNzI4LDY0MzI2MTY4MCwtMjA3NTc2NTk5Ml19
+eyJoaXN0b3J5IjpbMTAxNzA0MTQxNCwtOTEzNjMzNzAzLDEwMT
+cwNDE0MTQsLTEwMjE2MjE3MjgsNjQzMjYxNjgwLC0yMDc1NzY1
+OTkyXX0=
 -->
