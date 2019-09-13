@@ -2,13 +2,14 @@
 
 ### Kommunikationswege & Tools
 
-#### interne Kommunikation
+#### interne Kommunikation ( OR Mitglieder )
 OR Sitzungen/Treffen vor Ort ( offline nach Bedarf )
-WhatsApp - Gruppe ( online, als Organisationshilfe )
+WhatsApp - Gruppe intern ( online, als Organisationshilfe )
 
 #### öffentliche Kommunikation
-OR Versammlungen 
+OR Versammlungen  vor Ort ( offline, etwa alle 1 bis 2 Monate )
+WhatsApp - Gruppe offen 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzE4MDE0NCwtMTM5NDEyMDU2NSwtMz
-MyNDU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTMwMzQ0MDY4LC0xMzk0MTIwNTY1LC0zMz
+I0NTUzNjNdfQ==
 -->
