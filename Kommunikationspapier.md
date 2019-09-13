@@ -1,9 +1,14 @@
 # Kommunikation & Dokumentation
 
 ### Kommunikationswege & Tools
+
 #### interne Kommunikation
-WhatsApp
+OR Treffen vor Ort ( offline )
+WhatsApp - Gruppe ( online )
+
+#### öffentliche Kommunikation
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDg4OTA4NSwtMTM5NDEyMDU2NSwtMz
+eyJoaXN0b3J5IjpbMTg2ODc2MTE2MCwtMTM5NDEyMDU2NSwtMz
 MyNDU1MzYzXX0=
 -->
