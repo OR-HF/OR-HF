@@ -10,7 +10,8 @@ WhatsApp - Gruppe intern ( online, als Organisationshilfe )
 OR Versammlungen  vor Ort ( offline, etwa alle 1 bis 2 Monate )
 *WhatsApp - Gruppe offen ( Vorschlag, noch nicht beschlossen und aktiv )*
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTkyNjA0MSwtMTM5NDEyMDU2NSwtMz
+eyJoaXN0b3J5IjpbMTk1Mzc2ODUzMywtMTM5NDEyMDU2NSwtMz
 MyNDU1MzYzXX0=
 -->
