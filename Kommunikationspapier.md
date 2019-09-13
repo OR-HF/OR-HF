@@ -1,7 +1,13 @@
 # Kommunikation & Dokumentation
+Ziel dieses Kommunikationspapiers ist es, möglichst alle Hirschfelder Bürger in den örtlichen Gestaltungsprozess einzubeziehen. 
+Es ist uns als Ortschaftsrat ) wichtig, dass alle Hirschfelder Bürger stets über den aktuellen Stand informiert sind und die Wege der Informationsweitergabe effizient und dem Empfänger zugeschnitten sind. 
+
+Grundsätzlich gilt, dass Online - Kommunikationstools der Ergänzung und Unterstützung sowie Informationsweitergabe dienen. 
+Datenschutzrechtlich bedenkliche Informationen werden selbstverständlich ausschließlich offline oder per telefonisch ausgetauscht.
 
 ### Kommunikationswege & Tools
-Grundsätzlich gilt, dass Online - Kommunikationstools der Ergänzung und Unterstützung sowie . 
+
+
 
 #### interne Kommunikation ( OR Mitglieder )
 OR Sitzungen/Treffen vor Ort ( offline nach Bedarf )
@@ -18,6 +24,6 @@ OR Versammlungen  vor Ort ( offline, etwa alle 1 bis 2 Monate )
 ##### alternative Kommunikationsplattformen
 *KeyBase - Gruppe offen ( Vorschlag, bislang nicht beschlossen )*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NjM2NTI5LC0xMzk0MTIwNTY1LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbMTU5NTk4OTUyMSwtMTM5NDEyMDU2NSwtMz
+MyNDU1MzYzXX0=
 -->
