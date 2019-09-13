@@ -8,8 +8,9 @@ WhatsApp - Gruppe intern ( online, als Organisationshilfe )
 
 #### öffentliche Kommunikation
 OR Versammlungen  vor Ort ( offline, etwa alle 1 bis 2 Monate )
-WhatsApp - Gruppe offen 
+*WhatsApp - Gruppe offen ( Vorschlag, noch nicht beschlossen und aktiv )*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzQ0MDY4LC0xMzk0MTIwNTY1LC0zMz
-I0NTUzNjNdfQ==
+eyJoaXN0b3J5IjpbLTUzMTkyNjA0MSwtMTM5NDEyMDU2NSwtMz
+MyNDU1MzYzXX0=
 -->
