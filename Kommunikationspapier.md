@@ -1,7 +1,7 @@
 # Kommunikation & Dokumentation
 
-### Kommunikationstools
+### Kommunikationswege
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDg0MTQsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTEzOTQxMjA1NjUsLTMzMjQ1NTM2M119
 -->
