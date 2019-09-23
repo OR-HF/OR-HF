@@ -19,7 +19,8 @@ WhatsApp - Gruppe intern ( online, als Organisationshilfe )
 OR Versammlungen  vor Ort ( offline, etwa alle 1 bis 2 Monate ) 
 
 ##### konventionelle Kommunikationswege
-###### Briefkasten
+###### per Post/Briefkasten
+
 
 ##### populäre Kommunikationsplattformen
 *WhatsApp - Gruppe offen für Hirschfelder u. Gäste ( Vorschlag, bislang nicht beschlossen und aktiv )*
@@ -32,6 +33,6 @@ Mitgliederverwaltung über OR ( interne Liste )
 ##### alternative Kommunikationsplattformen
 *KeyBase - Gruppe offen für Hirschfelder ( Vorschlag, bislang nicht beschlossen )*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI0MDgxMzcsNzU2ODI5OTcyLDE4MT
-UwNTI4MDEsLTEzOTQxMjA1NjUsLTMzMjQ1NTM2M119
+eyJoaXN0b3J5IjpbLTE1NTA2NzQwMSw3NTY4Mjk5NzIsMTgxNT
+A1MjgwMSwtMTM5NDEyMDU2NSwtMzMyNDU1MzYzXX0=
 -->
